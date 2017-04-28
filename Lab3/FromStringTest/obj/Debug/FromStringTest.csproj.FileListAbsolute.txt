@@ -1,0 +1,6 @@
+E:\Теория программирования\Lab3\FromStringTest\bin\Debug\FromStringTest.exe.config
+E:\Теория программирования\Lab3\FromStringTest\obj\Debug\FromStringTest.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab3\FromStringTest\bin\Debug\FromStringTest.exe
+E:\Теория программирования\Lab3\FromStringTest\bin\Debug\FromStringTest.pdb
+E:\Теория программирования\Lab3\FromStringTest\obj\Debug\FromStringTest.exe
+E:\Теория программирования\Lab3\FromStringTest\obj\Debug\FromStringTest.pdb
