@@ -1,0 +1,6 @@
+E:\Теория программирования\Lab2\Lab2_k(c)\bin\Debug\Lab2_k(c).exe.config
+E:\Теория программирования\Lab2\Lab2_k(c)\bin\Debug\Lab2_k(c).exe
+E:\Теория программирования\Lab2\Lab2_k(c)\bin\Debug\Lab2_k(c).pdb
+E:\Теория программирования\Lab2\Lab2_k(c)\obj\Debug\Lab2_k(c).csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab2\Lab2_k(c)\obj\Debug\Lab2_k(c).exe
+E:\Теория программирования\Lab2\Lab2_k(c)\obj\Debug\Lab2_k(c).pdb

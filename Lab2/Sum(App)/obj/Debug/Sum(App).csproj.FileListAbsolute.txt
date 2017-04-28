@@ -1,0 +1,9 @@
+E:\Теория программирования\Lab2\Sum(App)\bin\Debug\Sum(App).exe.config
+E:\Теория программирования\Lab2\Sum(App)\bin\Debug\Sum(App).exe
+E:\Теория программирования\Lab2\Sum(App)\bin\Debug\Sum(App).pdb
+E:\Теория программирования\Lab2\Sum(App)\obj\Debug\Sum(App).csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab2\Sum(App)\obj\Debug\Sum_App_.Form1.resources
+E:\Теория программирования\Lab2\Sum(App)\obj\Debug\Sum_App_.Properties.Resources.resources
+E:\Теория программирования\Lab2\Sum(App)\obj\Debug\Sum(App).csproj.GenerateResource.Cache
+E:\Теория программирования\Lab2\Sum(App)\obj\Debug\Sum(App).exe
+E:\Теория программирования\Lab2\Sum(App)\obj\Debug\Sum(App).pdb
