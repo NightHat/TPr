@@ -1,0 +1,12 @@
+E:\Теория программирования\Lab5\Ex4_k\bin\Debug\Ex4_k.exe.config
+E:\Теория программирования\Lab5\Ex4_k\obj\Debug\Ex4_k.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab5\Ex4_k\bin\Debug\Ex4_k.exe
+E:\Теория программирования\Lab5\Ex4_k\bin\Debug\Ex4_k.pdb
+E:\Теория программирования\Lab5\Ex4_k\obj\Debug\Ex4_k.exe
+E:\Теория программирования\Lab5\Ex4_k\obj\Debug\Ex4_k.pdb
+E:\Теория программирования\Lab5\Ex4\bin\Debug\Ex4_k.exe.config
+E:\Теория программирования\Lab5\Ex4\obj\Debug\Ex4_k.exe
+E:\Теория программирования\Lab5\Ex4\obj\Debug\Ex4_k.pdb
+E:\Теория программирования\Lab5\Ex4\bin\Debug\Ex4_k.exe
+E:\Теория программирования\Lab5\Ex4\bin\Debug\Ex4_k.pdb
+E:\Теория программирования\Lab5\Ex4\obj\Debug\Ex4_k.csprojResolveAssemblyReference.cache

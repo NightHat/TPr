@@ -1,0 +1,12 @@
+E:\Теория программирования\Lab5\Ex3_k\bin\Debug\Ex3_k.exe.config
+E:\Теория программирования\Lab5\Ex3_k\obj\Debug\Ex3_k.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab5\Ex3_k\bin\Debug\Ex3_k.exe
+E:\Теория программирования\Lab5\Ex3_k\bin\Debug\Ex3_k.pdb
+E:\Теория программирования\Lab5\Ex3_k\obj\Debug\Ex3_k.exe
+E:\Теория программирования\Lab5\Ex3_k\obj\Debug\Ex3_k.pdb
+E:\Теория программирования\Lab5\Ex3\bin\Debug\Ex3_k.exe.config
+E:\Теория программирования\Lab5\Ex3\obj\Debug\Ex3_k.exe
+E:\Теория программирования\Lab5\Ex3\obj\Debug\Ex3_k.pdb
+E:\Теория программирования\Lab5\Ex3\bin\Debug\Ex3_k.exe
+E:\Теория программирования\Lab5\Ex3\bin\Debug\Ex3_k.pdb
+E:\Теория программирования\Lab5\Ex3\obj\Debug\Ex3_k.csprojResolveAssemblyReference.cache
